@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "451267992450",
+    "firebase_url": "https://quarta-6933a-default-rtdb.firebaseio.com",
+    "project_id": "quarta-6933a",
+    "storage_bucket": "quarta-6933a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451267992450:android:572c2d0a11b1c3b4d90d9b",
+        "android_client_info": {
+          "package_name": "com.example.mp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451267992450-egt8vods7lguhekgk5o4uv0vju23ukgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0YJhO-vuPDghoP0P2D8uaGC1G-P1ADVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451267992450-egt8vods7lguhekgk5o4uv0vju23ukgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451267992450:android:5aec94eae9668879d90d9b",
+        "android_client_info": {
+          "package_name": "com.example.quarta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451267992450-egt8vods7lguhekgk5o4uv0vju23ukgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0YJhO-vuPDghoP0P2D8uaGC1G-P1ADVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451267992450-egt8vods7lguhekgk5o4uv0vju23ukgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451267992450:android:cdc3b34f10c732ecd90d9b",
+        "android_client_info": {
+          "package_name": "com.example.room"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451267992450-egt8vods7lguhekgk5o4uv0vju23ukgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0YJhO-vuPDghoP0P2D8uaGC1G-P1ADVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451267992450-egt8vods7lguhekgk5o4uv0vju23ukgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
